@@ -1,0 +1,14 @@
+           1 percolation path not found for n=         512 p=
+  0.600000000000000      cluster size=         589 cluster label=        1922
+           1 percolation path not found for n=         512 p=
+  0.600000000000000      cluster size=        1040 cluster label=        2062
+           1 percolation path not found for n=         512 p=
+  0.600000000000000      cluster size=        1307 cluster label=        9151
+           1 percolation path not found for n=         512 p=
+  0.600000000000000      cluster size=        3280 cluster label=       10031
+           1 percolation path not found for n=         512 p=
+  0.600000000000000      cluster size=        3660 cluster label=        6434
+           1 percolation path not found for n=         512 p=
+  0.600000000000000      cluster size=       20069 cluster label=           3
+           1 we found percolation path for n=         512 p=
+  0.600000000000000      cluster size=       93399 cluster label=          65
